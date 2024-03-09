@@ -5,7 +5,7 @@ For now, be sure to [check out my website](https://sidelinedata.com) and if you'
 
 
 ### KegWatch
-KegWatch is a beer tracking system for your kegerator! Designed to be affordable, simple, and fun. Ease of installation sets KegWatch apart from other keg management solutions. No severed beer lines. No scales. No electronics inside the kegerator. Simply place the unit on top of your beer tower, attach the included magnets to your tap handles, and you are ready to go!  KegWatch looks for the tap handles to open and close and estimates the amount of beer poured based on the flow rate of **your** draft system!
+KegWatch is a beer tracking system for your kegerator! Designed to be affordable, simple, and fun. Ease of installation sets KegWatch apart from other keg management solutions. No severed beer lines. No scales. No electronics inside the kegerator. Simply place the unit on top of your beer tower, attach the included magnets to your tap handles, and you are ready to go!  KegWatch looks for the tap handles to open and close and estimates the amount of beer poured based on the flow rate of **your** draft system! For additional fun, a self hosted (for now) data platform allows you to log, analyze, and visualize your own beer statistics with Grafana. 
 
 
 ### HopperHawk
